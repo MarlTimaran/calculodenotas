@@ -1,2 +1,2 @@
 # calculodenotas
-Este repositorio es para alojar programas de calculo de notas de la materia desarrollo movil
+Este repositorio es para alojar aplicaciones de la materia desarrollo movil
